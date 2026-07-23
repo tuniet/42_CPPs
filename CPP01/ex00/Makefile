@@ -1,7 +1,7 @@
 NAME		= braiiiiiiinnnzzzZ
 
 CC			= c++
-CFLAGS		= -Wall -Wextra -Werror -std=c++98 -pedantic
+CFLAGS		= -Wall -Wextra -Werror -std=c++98 -
 RM			= rm -f
 
 SRCS		= main.cpp \
